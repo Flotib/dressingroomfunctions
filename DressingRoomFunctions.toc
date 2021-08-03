@@ -23,7 +23,7 @@
 # POSSIBILITY OF SUCH DAMAGE.
 #
 
-## Interface: 80200
+## Interface: 90100
 ## Title: Dressing Room Functions
 ## Notes: This extension allows you to remove clothing from your dressing room character (useful for previewing shirts |nand pants under a robe) or switch to a target model (useful for seeing a character through druid forms). These functions |nare part of the Blizzard Programming Interface but rarely used, but can be extremely useful depending on the situation.
 ## Notes-zhCN: 试衣间增强插件，可以自动脱装与设定背景与种族模块。
