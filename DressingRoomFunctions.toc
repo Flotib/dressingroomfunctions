@@ -23,7 +23,7 @@
 # POSSIBILITY OF SUCH DAMAGE.
 #
 
-## Interface: 90100
+## Interface: 100000
 ## Title: Dressing Room Functions
 ## Notes: This extension allows you to remove clothing from your dressing room character (useful for previewing shirts |nand pants under a robe) or switch to a target model (useful for seeing a character through druid forms). These functions |nare part of the Blizzard Programming Interface but rarely used, but can be extremely useful depending on the situation.
 ## Notes-zhCN: 试衣间增强插件，可以自动脱装与设定背景与种族模块。
@@ -32,7 +32,7 @@
 ## Notes-enTW: 試衣間增強插件，可以自動脫裝與設定背景與種族模組。
 ## Notes-koKR: 이 확장을 사용 하면 탈의실 캐릭터 (셔츠와 바지 가운 아래 미리 보기에 대 한 유용한)에서 의류를 제거 하거나 대상 모델 (사제 양식을 통해 문자를 보고에 대 한 유용한)를 |n전환할 수 있습니다. 이러한 기능은 블리자드 프로그래밍 인터페이스의 일부입니다 거의 사용 하지만 상황에 따라 매우 유용할 수 있습니다.
 ## Notes-ruRU: Этот аддон позволяет удалить одежду из вашего персонажа Туалетная комната (полезно для просмотра рубашки и |nбрюки под халатом) или перейти к целевой модели (полезным для просмотра символов через формы друида). Эти функции являются |nчастью интерфейса программирования Blizzard, но редко используется, но может быть чрезвычайно полезным в зависимости от |nситуации.
-## Notes-frFR: Cette extension permet de retirer les vêtements de votre personnage de vestiaire (utile pour la prévisualisation |ndes chemises et pantalons sous une robe) ou passer à un modèle de cible (utile pour voir un personnage à travers des |nformes de druide). Ces fonctions font partie de l'Interface de programmation de Blizzard, mais rarement utilisé, mais |npeuvent être extrêmement utiles selon la situation.
+## Notes-frFR: Cette extension permet de retirer les vêtements de votre personnage dans la cabine d'essayage (utile pour la prévisualisation |ndes chemises et pantalons sous une robe) ou passer à un modèle de cible (utile pour voir un personnage à travers des |nformes de druide). Ces fonctions font partie de l'Interface de programmation de Blizzard, mais rarement utilisées, mais |npeuvent être extrêmement utiles selon la situation.
 ## Notes-deDE: Mit dieser Erweiterung ist es Ihnen möglich in der Garderobe die|nKleidung von Ihrem Charakter zu entfernen (nützlich z.B. zur Vorschau|nvon Hemden und Hosen unter einer Robe). Außerdem können Sie zu einer|nVorschau Ihres Ziels wechseln (nützlich z.B. um einen Charakter durch|nseine Druidenform zu sehen). Dies sind selten benutzte Funktionen der|nBlizzard Programmier-Schnittstelle, können jedoch Situationsbedingt|nsehr hilfreich sein.
 ## Notes-ptPT: Esta extensão permite que você remover a roupa de seu personagem de camarim (útil para a visualização de |ncamisas e calças sob um manto) ou mudar para um modelo de destino (útil para ver um personagem através de formas de druid). |nEssas funções são parte da Interface de programação de Blizzard raramente usado, mas podem ser extremamente útil dependendo da situação.
 ## Notes-esES: Esta extensión permite que retire la ropa de tu personaje de Camerino (útil para previsualizar las camisas y |npantalones bajo una túnica) o cambiar a un modelo de destino (útil para ver a un personaje a través de formas |ndruida). Estas funciones son parte de la interfaz de programación de Blizzard pero rara vez se utilizan, pero pueden ser muy útiles |ndependiendo de la situación.
@@ -40,7 +40,7 @@
 ## Notes-esMX: Esta extensión permite que retire la ropa de tu personaje de Camerino (útil para previsualizar las camisas y |npantalones bajo una túnica) o cambiar a un modelo de destino (útil para ver a un personaje a través de formas |ndruida). Estas funciones son parte de la interfaz de programación de Blizzard pero rara vez se utilizan, pero pueden ser muy útiles |ndependiendo de la situación.
 ## Notes-ptBR: Esta extensão permite que você remover a roupa de seu personagem de camarim (útil para a visualização de |ncamisas e calças sob um manto) ou mudar para um modelo de destino (útil para ver um personagem através de formas de druid). |nEssas funções são parte da Interface de programação de Blizzard raramente usado, mas podem ser extremamente útil dependendo da situação.
 ## Author: Allikitten
-## Version: v2.0.0
+## Version: v2.3.0
 ## SavedVariables: DRF_Global
 ## SavedVariablesPerCharacter: DRF_Character
 

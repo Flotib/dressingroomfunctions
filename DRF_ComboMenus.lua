@@ -141,8 +141,8 @@ function DRF_DoUndress(NoTimer)
 	end
 end
 
-DRF_button1:SetPoint("Center",DressUpFrame,"BottomLeft",50,15);
-DRF_button1:SetSize(70,22);
+DRF_button1:SetPoint("Center",DressUpFrame,"BottomLeft",212,15); // coords if not using BetterWardrobe which changed how the "link" button looks and its position
+DRF_button1:SetSize(108,22);
 DRF_button1.text = _G["DRF_UndressButton"];
 DRF_button1.text:SetText(DRF_L["Undress"]);
 DRF_button1:SetScript("OnClick",function(self,event,arg1)
@@ -152,7 +152,7 @@ DRF_button1:SetScript("OnClick",function(self,event,arg1)
 	PlaySoundFile("gsTitleOptionOK");
 end);
 
-DRF_button2:SetPoint("Center",DRF_UndressButton,"Center",62,0);
+DRF_button2:SetPoint("Center",DRF_UndressButton,"Center",82,0); // coords if not using BetterWardrobe which changed how the "link" button looks and its position
 DRF_button2:SetSize(60,22);
 DRF_button2.text = _G["DRF_TargetButton"];
 DRF_button2.text:SetText(DRF_L["Target"]);

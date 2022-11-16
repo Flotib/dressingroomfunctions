@@ -74,7 +74,7 @@ end
 function DressUpItemLink(link)
 	DRF_LastQueuedItem = link;
 	if( link ) then 
-		if ( IsDressableItem(link) ) then
+		if ( C_Item.IsDressableItemByID(link) ) then // Delete this condition if necessary
 			return DressUpVisual(link);
 		end
 	end

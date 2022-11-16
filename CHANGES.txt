@@ -1,0 +1,7 @@
+Author:	Flotib
+Date:	Wed Nov 16 17:58:57 2022 -0400
+
+    - version 2.3.0
+    - Fixed few bugs
+    - Enlarge the dressing room buttons and moved them next to the link transmog button
+
